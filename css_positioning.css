@@ -1,0 +1,17 @@
+.p1{
+    background-color: rgb(211,211,211);
+    position: fixed;
+    border: 5px solid rgb(211,211,211);
+  }
+  .p2{
+    background-color: rgb(211,211,211);
+    position: relative;
+    border: 5px solid rgb(211,211,211);
+    text-align: center;
+  }
+  .p3{
+    background-color: grey;
+    position: absolute;
+    border: 5px solid grey;
+  }
+  
